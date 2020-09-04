@@ -8,6 +8,6 @@ def square_array(array)
   end
   new_array
 
-binding.pry
+#binding.pry
 
 end
